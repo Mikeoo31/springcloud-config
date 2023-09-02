@@ -1,2 +1,2 @@
-spring
-  config: master-config-test.yml
+config:
+  info: master-config-test.yml
